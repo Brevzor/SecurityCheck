@@ -1,0 +1,42 @@
+{
+  "FilesizeL": 2100000,
+  "FilesizeH": 28000000,
+  "Astra": "2024/08/09:16:23:27",
+  "Hydro": "2024/06/23:15:22:07",
+  "Leet": "2024/11/10:17:13:44",
+  "Skript": "2024/09/15:18:49:17",
+  "EntryPoint": "0xCB62D2|0x205FB14|0x7A4D8|0x18AE058",
+  "Threat": "wacatac|phonzy",
+  "fsSkript": "2410496|2179584",
+  "fsLeet": "21832704|24180224|24272384|22456320",
+  "fsAstra": "15557136|14333968",
+  "fsHydro": "15831552",
+  "fsRo9an": "1058698916",
+  "fsHitbox": "1058699272",
+  "_fsAbby": "",
+  "fsVanish": "14810624",
+  "shaHashs": [
+      "bf0357f48abbde2f8bb2210f9ccd6b1e5ed4403f",
+      "3dfbfe5b84444a24304ddab500aef1ab11ae034a",
+      "536de5eb8bbed75f4445d007bbcf59e287dc8e5c",
+      "33bac16d5a743e7d4b4402a02c16bd2ed0284b0e",
+      "4c4939f8f28a2d834df88d3e3a26ee3f44f7cabc",
+      "6717c906deb0dbbb14968c4af9ec186650d3dd51",
+      "ebcf02b9a3fb78335084b1dd050c312365467afc",
+      "5ebb0b1697c1c270636b86c6eaa4cf0b6537b328",
+      "b930fdb59a1617a946a6bfbc5d4c8ed05163a70e",
+      "2ba7480bc65bbf45e06bc2d3621f130daec846e8"
+   ],
+    "hashWordMap": {
+        "bf0357f48abbde2f8bb2210f9ccd6b1e5ed4403f": "Vanish",
+        "3dfbfe5b84444a24304ddab500aef1ab11ae034a": "Leet",
+        "33bac16d5a743e7d4b4402a02c16bd2ed0284b0e": "Leet",
+        "b930fdb59a1617a946a6bfbc5d4c8ed05163a70e": "Leet",
+        "2ba7480bc65bbf45e06bc2d3621f130daec846e8": "Leet",
+        "536de5eb8bbed75f4445d007bbcf59e287dc8e5c": "Skript",
+        "5ebb0b1697c1c270636b86c6eaa4cf0b6537b328": "Skript",
+        "4c4939f8f28a2d834df88d3e3a26ee3f44f7cabc": "Hydrogen",
+        "6717c906deb0dbbb14968c4af9ec186650d3dd51": "Astra",
+        "ebcf02b9a3fb78335084b1dd050c312365467afc": "Astra"
+    }
+}
