@@ -1,4 +1,4 @@
-$configJson = Invoke-RestMethod -Uri "https://github.com/Brevzor/SecurityCheck/blob/cda5bc39e8f1a3dfeb546f345abb025c125f6277/cfg.json" 
+$configJson = Invoke-RestMethod -Uri "https://raw.githubusercontent.com/Brevzor/SecurityCheck/refs/heads/main/cfg.json" 
 $Astra = $configJson.Astra
 $EntryPoint = $configJson.EntryPoint
 $FilesizeH = $configJson.FilesizeH
